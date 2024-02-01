@@ -100,5 +100,5 @@ tbody th{
 
 tr[class="total"]{
     font-weight:bold;
-    border-bottom: 4px solid #0a0a23;
+    border-bottom: 4px double #0a0a23;
 }
